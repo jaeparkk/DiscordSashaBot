@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8/"/>
+	<classpathentry kind="con" path="org.eclipse.buildship.core.gradleclasspathcontainer"/>
+	<classpathentry kind="lib" path="D:/Downloads/JDA-4.0.0_39-withDependencies.jar" sourcepath="D:/Downloads/JDA-4.0.0_39-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/D:/Downloads/JDA-4.0.0_39-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Downloads/jda-utilities-doc-3.0.2.jar" sourcepath="D:/Downloads/jda-utilities-doc-3.0.2-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/D:/Downloads/jda-utilities-doc-3.0.2-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Downloads/jda-utilities-command-3.0.2.jar" sourcepath="D:/Downloads/jda-utilities-command-3.0.2-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/D:/Downloads/jda-utilities-command-3.0.2-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Downloads/jda-utilities-commons-3.0.2.jar" sourcepath="D:/Downloads/jda-utilities-commons-3.0.2-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/D:/Downloads/jda-utilities-commons-3.0.2-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Downloads/lavaplayer-1.3.34.jar" sourcepath="D:/Downloads/lavaplayer-1.3.34-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
